@@ -1,0 +1,16 @@
+  
+{
+    "name": "Shourov AdsBlocker",
+    "version": "1.0",
+    "description": "Ads Blocker by Shourov",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["main.js"]
+    },
+    "icons": {
+        "16": "icons/logo_1616.png",
+        "48": "icons/logo_48-48.png",
+        "128": "icons/logo_120-120.png"
+    },
+    "manifest_version": 2
+}
